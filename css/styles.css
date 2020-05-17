@@ -1,0 +1,72 @@
+a {
+    font-family: 'Bree Serif', serif;
+}
+
+.n1 {
+    background-color: #342EAD;
+}
+
+.head1 {
+    background-color: #C23A2A;
+    padding: 1rem;
+}
+
+.logo2 {
+    width: 30rem;
+    vertical-align: top;
+}
+
+.details {
+    color: white;
+    display: inline-block;
+    padding: 1rem;
+    margin-left: 5rem;
+}
+
+h1 {
+    text-align: center;
+    margin: 3rem auto 3rem auto;
+    color: #342EAD;
+}
+
+.products {
+    background-color: white;
+    width: 60%;
+    height: 20rem;
+    margin: 0 auto 20rem auto;
+    display: block;
+}
+
+.img1 {
+    height: 25rem;
+    float: left;
+    margin-right: 1rem;
+}
+
+.img2 {
+    height: 25rem;
+    float: right;
+    margin-left: 1rem;
+}
+
+.heading3l {
+    text-align: left;
+    color: #C23A2A;
+}
+
+.heading3r {
+    text-align: right;
+    color: #C23A2A;
+}
+
+.writeupl {
+    line-height: 2;
+    color: #C23A2A;
+    text-align: justify;
+}
+
+.writeupr {
+    line-height: 2;
+    color: #C23A2A;
+    text-align: justify;
+}
