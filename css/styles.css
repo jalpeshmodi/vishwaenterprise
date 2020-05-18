@@ -11,11 +11,6 @@ a {
     padding: 1rem;
 }
 
-.logo2 {
-    width: 30rem;
-    vertical-align: top;
-}
-
 .details {
     color: white;
     display: inline-block;
@@ -33,18 +28,28 @@ h1 {
     background-color: white;
     width: 60%;
     height: 20rem;
-    margin: 0 auto 20rem auto;
+    margin: 0 auto 10rem auto;
     display: block;
 }
 
+.img-fluid {
+    width: auto;
+    max-height: 60%;
+}
+
+.logo2 {
+    width: 30rem;
+    vertical-align: top;
+}
+
 .img1 {
-    height: 25rem;
+    /* height: 25rem; */
     float: left;
     margin-right: 1rem;
 }
 
 .img2 {
-    height: 25rem;
+    /* height: 25rem; */
     float: right;
     margin-left: 1rem;
 }
@@ -60,13 +65,13 @@ h1 {
 }
 
 .writeupl {
-    line-height: 2;
+    line-height: 1.5;
     color: #C23A2A;
     text-align: justify;
 }
 
 .writeupr {
-    line-height: 2;
+    line-height: 1.5;
     color: #C23A2A;
     text-align: justify;
 }
